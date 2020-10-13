@@ -1,0 +1,13 @@
+
+<input type="datetime-local"> 
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="password">
+<input type="range">
+<input type="search">
+<input type="submit">
+<input type="time">
+<input type="week">
+<input type="checkbox">
+
